@@ -1,7 +1,7 @@
-# Attendance Management Project
+# Student Management Project
 
-This is the first phase of the Attendance Management Project.  
-Author: bhuvana shri  
+This is the firstphase of Student Management Project.  
+Author: Bhuvana Shri A  
 Squad: 70  
 
 ## How to run
@@ -9,4 +9,4 @@ Squad: 70
 2. Run: `java -cp src com.school.Main`
 
 ## Output
-Welcome to Attendance Management Project!
+Welcome to Student Management Project!
